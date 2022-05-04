@@ -1,0 +1,1 @@
+uvicorn main:app --reload --port 8080   -   запуск сервера, main - название файла, app - названия приложения
